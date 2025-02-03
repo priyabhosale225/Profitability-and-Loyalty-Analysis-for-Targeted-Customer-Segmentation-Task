@@ -1,5 +1,6 @@
 # Profitability-and-Loyalty-Analysis-for-Targeted-Customer-Segmentation-Task
 
+
 ## Task
 
 Our (hypothetical) marketing department needs some help in focussing on the most important market segment.
@@ -10,6 +11,7 @@ Also, they need help in identifying the bestselling products.
 
 So, given the transaction data, help us identify the top 3 most profitable products and characteristics of our most loyal customers.  
 Also include your hypothesis of why you think the loyal customers like
+
 
 
 You can download the data from here: https://drive.google.com/drive/folders/1JLHEIQp95b6Jo3iiXGYfIdKUrs8uWJn1?usp=sharing
